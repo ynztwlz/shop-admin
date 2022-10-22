@@ -1,5 +1,5 @@
 <template>
-  
+  <div>FMenu</div>
 </template>
 
 <script setup>
